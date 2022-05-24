@@ -13,21 +13,21 @@ body {
 }
 
 .hero1 {
-    background-image: url("/img/fondo-1.jpg");
+    background-image: url("../img/fondo-1.jpg");
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .hero2 {
-    background-image: url("/img/fondo-2.jpg");
+    background-image: url("../img/fondo-2.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .hero3 {
-    background-image: url("/img/fondo-3.jpg");
+    background-image: url("../img/fondo-3.jpg");
     background-position: left top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -58,12 +58,12 @@ body {
 
 @font-face {
     font-family: demon-night;
-    src: url(/fonts/demonni.woff);
+    src: url(../fonts/demonni.woff);
 }
 
 @font-face {
     font-family: heaters;
-    src: url(/fonts/Heaters.woff);
+    src: url(../fonts/Heaters.woff);
     font-weight: 500px;
 }
 
@@ -156,15 +156,15 @@ nav ul li a h3 {
         height: 100%;
     }
     .hero1 {
-        background-image: url("/img/fondo-mobil-1.jpg");
+        background-image: url("../img/fondo-mobil-1.jpg");
         background-size: 100% 100%;
     }
     .hero2 {
-        background-image: url("/img/fondo-mobil-2.jpg");
+        background-image: url("../img/fondo-mobil-2.jpg");
         background-size: 100% 100%;
     }
     .hero3 {
-        background-image: url("/img/fondo-mobil-3.jpg");
+        background-image: url("../img/fondo-mobil-3.jpg");
         background-size: cover;
         background-position: center left;
     }
