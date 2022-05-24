@@ -104,7 +104,8 @@ body {
     font-size: 50px;
     font-family: demon-night;
 }
-
+.content-anime{
+ height:100%;}
 nav {
     display: flex;
     background-color: rgba(0, 0, 0, 0.76);
@@ -240,6 +241,8 @@ nav ul li a h3 {
         padding-top: 5rem;
         width: 100%;
     }
+ .content-anime{
+ height:auto;}
     .anime-options {
         flex-direction: column;
     }
