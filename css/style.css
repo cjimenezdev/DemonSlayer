@@ -234,6 +234,9 @@ nav ul li a h3 {
     .description {
         height: 100%;
     }
+ .description p{
+ font-size:15px;
+ }
     .info-options {
         height: auto;
     }
