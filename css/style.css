@@ -63,7 +63,7 @@ body {
 
 @font-face {
     font-family: heaters;
-    src: url(/fonts/heaters.otf) format("oft");
+    src: url(/fonts/Heaters.otf);
     font-weight: 500px;
 }
 
