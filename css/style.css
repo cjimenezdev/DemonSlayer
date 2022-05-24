@@ -9,7 +9,7 @@
 body {
     font-weight: 100;
     font-family: demon-night;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .hero1 {
